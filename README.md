@@ -37,6 +37,7 @@ python main.py
 └── README.md        # Este archivo
 
 💡 Ejemplo de uso
+
 Escribe el nombre del sitio web.
 
 Ingresa tu correo o nombre de usuario.
@@ -48,6 +49,7 @@ Haz clic en Add para guardar.
 El password se copiará automáticamente al portapapeles.
 
 🔐 Seguridad
+
 Este gestor guarda las contraseñas en texto plano (data.txt). No es recomendado para producción sin cifrado. Para mejorar la seguridad podrías:
 
 Usar cifrado con cryptography o fernet
